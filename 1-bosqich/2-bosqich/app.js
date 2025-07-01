@@ -12,7 +12,7 @@ function sumOfDigits(num) {
 
 a = sumOfDigits(first);
 b = sumOfDigits(second);
-if (b === b) {
+if (a === b) {
   alert("YES");
 } else {
   alert("NO");
